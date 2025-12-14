@@ -15,7 +15,7 @@
 2. Backend Setup
 - create a .env file in backend/:
 - run the backend server
-  - Backend runs at: http://localhost:3000
+  - Backend runs at: http://localhost:3001
 3. Frontend Setup
 - create a .env file in backend/:
 - run the frontend server
