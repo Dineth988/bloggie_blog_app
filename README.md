@@ -9,3 +9,14 @@
 - MongoDB database connection using **Mongoose**
 - JWT authentication
 - CRUD operations for blog posts and users
+
+### Setup Instructions
+1.Clone the repository
+2.Backend Setup
+-create a .env file in backend/:
+-run the backend server
+  -Backend runs at: http://localhost:3000
+3.Frontend Setup
+-create a .env file in backend/:
+-run the frontend server
+  -Frontend runs at: http://localhost:3000
